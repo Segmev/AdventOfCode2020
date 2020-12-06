@@ -49,5 +49,5 @@ def main():
             print(id, ids[index + 1])
             break
 
-
-main()
+if __name__ == "__main__":
+    main()
